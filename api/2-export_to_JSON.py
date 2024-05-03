@@ -6,8 +6,8 @@ in JSON format
 """
 
 
-import requests
 import json
+import requests
 from sys import argv
 
 
